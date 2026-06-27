@@ -161,3 +161,5 @@ netscope/
 ## Ethical Use
 
 This tool is intended for use on networks and systems you own or have explicit written authorisation to test. Unauthorised packet capture or port scanning may be illegal in your jurisdiction.
+
+> Tested on macOS Sequoia and Ubuntu 24.04.
