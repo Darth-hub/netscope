@@ -33,6 +33,7 @@ WELL_KNOWN_PORTS: Dict[int, str] = {
     8080: "HTTP-ALT",
     8443: "HTTPS-ALT",
     27017: "MongoDB",
+    5353: "mDNS",
 }
 
 # Ports that carry encrypted traffic
